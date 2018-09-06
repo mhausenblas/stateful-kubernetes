@@ -25,11 +25,13 @@ Blog posts and articles:
 - 08/2018: [Dynamically Expand Volume with CSI and Kubernetes](https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/)
 - 04/2018: [Container Storage Interface (CSI) for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/10/container-storage-interface-beta/)
 - 01/2018: [Introducing Container Storage Interface (CSI) Alpha for Kubernetes](https://kubernetes.io/blog/2018/01/introducing-container-storage-interface/)
+- 12/2017 [A Basic Guide to Kubernetes Storage](https://dzone.com/articles/a-basic-guide-to-kubernetes-storage)
+- 05/2017: [Kubernetes: State and Storage](https://blog.openshift.com/kubernetes-state-storage/)
 - 10/2016: [Dynamic Provisioning and Storage Classes in Kubernetes](https://kubernetes.io/blog/2016/10/dynamic-provisioning-and-storage-in-kubernetes/)
 
-Videos, slide decks:
+Videos and slide decks:
 
-- [A Basic Guide to Kubernetes Storage](https://dzone.com/articles/a-basic-guide-to-kubernetes-storage)
+- [Persistent Storage with Kubernetes in Production - Which Solution and Why?](https://www.youtube.com/watch?v=hqE5c5pyfrk)
 
 Projects and products:
 
