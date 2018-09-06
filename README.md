@@ -55,6 +55,8 @@ Projects and products:
 
 Official Kubernetes docs and specifications:
 
+- [StatefulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+- [Run a Single-Instance Stateful Application](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
 - [Controller](https://kubernetes.io/docs/reference/glossary/?fundamental=true#term-controller)
 - [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 - [Extend the Kubernetes API with custom resources](https://kubernetes.io/docs/tasks/access-kubernetes-api/custom-resources/custom-resource-definitions/)
@@ -62,6 +64,7 @@ Official Kubernetes docs and specifications:
 Blog posts and articles:
 
 - 08/2018: [Getting started with MongoDB Enterprise Operator for Kubernetes](https://hackernoon.com/getting-started-with-mongodb-enterprise-operator-for-kubernetes-bb5d5205fe02)
+- 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - 05/2018: [Introducing the Operator Framework: Building Apps on Kubernetes](https://coreos.com/blog/introducing-operator-framework)
 - 04/2018: [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814)
@@ -69,6 +72,8 @@ Blog posts and articles:
 - 03/2018: [Introducing the Oracle MySQL Operator for Kubernetes](https://blogs.oracle.com/developers/introducing-the-oracle-mysql-operator-for-kubernetes)
 - 12/2017: [Kubernetes Elasticsearch Operator](https://akomljen.com/kubernetes-elasticsearch-operator/)
 - 03/2017: [PostgreSQL Operator for Kubernetes](https://info.crunchydata.com/blog/postgres-operator-for-kubernetes)
+- 02/2017: [Deploying PostgreSQL Clusters using StatefulSets](https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets/)
+- 01/2017: [Running MongoDB on Kubernetes with StatefulSets](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
 
 Videos and slide decks:
 
