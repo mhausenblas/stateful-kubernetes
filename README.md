@@ -50,7 +50,7 @@ Projects and products:
   - [StorageOS](http://storageos.com)
   - [Stork](https://github.com/libopenstorage/stork)
 
-## Operators
+## Datastores and operators
 
 Official Kubernetes docs and specifications:
 
@@ -79,16 +79,6 @@ Projects and products:
 - [Operator SDK](https://github.com/operator-framework/operator-sdk)
 - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
 
-## Datastores
-
-Official Kubernetes docs and specifications:
-
-Blog posts and articles:
-
-Videos and slide decks:
-
-Projects and products:
-
 ## Backup and restore
 
 Official Kubernetes docs and specifications:
@@ -98,3 +88,6 @@ Blog posts and articles:
 Videos and slide decks:
 
 Projects and products:
+
+- [Heptio Ark](https://github.com/heptio/ark)
+- [ReShifter](http://reshifter.info/)
