@@ -29,8 +29,24 @@ Blog posts and articles:
 
 Videos, slide decks:
 
+- [A Basic Guide to Kubernetes Storage](https://dzone.com/articles/a-basic-guide-to-kubernetes-storage)
+
 Projects and products:
 
+- Public cloud
+  - Amazon [EKS Storage Classes](https://docs.aws.amazon.com/eks/latest/userguide/storage-classes.html)
+  - Google [GKE Storage](https://cloud.google.com/kubernetes-engine/docs/concepts/storage-overview)
+  - Microsoft Azure [AKS Persistent Volumes](https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv)
+- On-premises and cross-cloud
+  - [CephRBD](https://access.redhat.com/products/red-hat-ceph-storage)
+  - [GlusterFS](https://github.com/gluster/gluster-kubernetes)
+  - [OpenEBS](http://github.com/openebs/openebs/)
+  - OpenStack [Cinder](http://wiki.openstack.org/cinder)
+  - [Portworx](https://docs.portworx.com/scheduler/kubernetes/)
+  - [Quobyte](https://github.com/quobyte/kubernetes)
+  - [Rook](http://rook.io/)
+  - [StorageOS](http://storageos.com)
+  - [Stork](https://github.com/libopenstorage/stork)
 
 ## Operators
 
