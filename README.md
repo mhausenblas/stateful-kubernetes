@@ -52,6 +52,30 @@ Projects and products:
 
 ## Operators
 
+Official Kubernetes docs and specifications:
+
+Blog posts and articles:
+
+Videos and slide decks:
+
+Projects and products:
+
 ## Datastores
 
+Official Kubernetes docs and specifications:
+
+Blog posts and articles:
+
+Videos and slide decks:
+
+Projects and products:
+
 ## Backup and restore
+
+Official Kubernetes docs and specifications:
+
+Blog posts and articles:
+
+Videos and slide decks:
+
+Projects and products:
