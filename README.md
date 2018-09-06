@@ -4,13 +4,6 @@ _This is a list of resources for all thingz stateful apps and tooling in and for
 
 ---
 
-- [Storage](#storage)
-- [Datastores](#datastores)
-- [Operators](#operators)
-- [Backup and restore](#backup-and-restore)
-
----
-
 Note: when you read _in-tree_ it means it's part of the Kubernetes source code, otherwise we call it _3rd-party_, that is, using some kind of [Kubernetes extensibility](https://speakerdeck.com/mhausenblas/bending-kubernetes-to-your-needs) mechanism.
 
 ## Storage
