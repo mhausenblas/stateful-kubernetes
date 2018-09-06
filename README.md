@@ -11,10 +11,16 @@ _This is a list of resources for all thingz stateful apps and tooling in and for
 
 ---
 
+Note: when you read _in-tree_ it means it's part of the Kubernetes source code, otherwise we call it _3rd-party_, that is, using some kind of [Kubernetes extensibility](https://speakerdeck.com/mhausenblas/bending-kubernetes-to-your-needs) mechanism.
+
 ## Storage
 
 Official Kubernetes docs and specifications:
 
+- In-tree:
+  - [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/)
+  - [Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
+- 3rd-party:
 - [Container Storage Interface (CSI)](https://github.com/container-storage-interface/spec)
 
 Blog posts and articles:
