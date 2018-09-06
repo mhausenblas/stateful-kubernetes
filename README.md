@@ -42,6 +42,7 @@ Projects and products:
 - On-premises and cross-cloud
   - [CephRBD](https://access.redhat.com/products/red-hat-ceph-storage)
   - [GlusterFS](https://github.com/gluster/gluster-kubernetes)
+  - [MapR Data Fabric for Kubernetes](https://mapr.com/solutions/data-fabric/kubernetes/)
   - [OpenEBS](http://github.com/openebs/openebs/)
   - OpenStack [Cinder](http://wiki.openstack.org/cinder)
   - [Portworx](https://docs.portworx.com/scheduler/kubernetes/)
