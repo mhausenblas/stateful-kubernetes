@@ -35,6 +35,7 @@ Videos and slide decks:
 - [Kubernetes Storage Lingo 101 - Saad Ali, Google (Beginner Skill Level)](https://www.youtube.com/watch?v=uSxlgK1bCuA)
 - [Tutorial: Introduction to Stateful Applications on Kubernetes](https://www.youtube.com/watch?v=B-791PMq4cU)
 - [Container Engine: Storage Classes & Dynamic Provisioning in Kubernetes](https://www.youtube.com/watch?v=qktFhjJmFhg)
+- [Using Kubernetes Local Storage for Scale-Out Storage Services](https://www.youtube.com/watch?v=eqkgiPppZN8)
 
 Projects and products:
 
