@@ -1,0 +1,1 @@
+Both pull requests and issues are welcome. Also, please make sure that you add yourself to the [CONTRIBUTORS](https://github.com/mhausenblas/stateful-kubernetes/blob/master/CONTRIBUTORS) file, in order to make sure to receive credits.
