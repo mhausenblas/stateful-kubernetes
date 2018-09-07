@@ -87,6 +87,7 @@ Projects and products:
 
 - [Operator SDK](https://github.com/operator-framework/operator-sdk)
 - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
+- [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
 
 ## Backup and restore
 
@@ -100,3 +101,4 @@ Projects and products:
 
 - [Heptio Ark](https://github.com/heptio/ark)
 - [ReShifter](http://reshifter.info/)
+- [Kasten's K10 Platform](https://kasten.io/product/)
