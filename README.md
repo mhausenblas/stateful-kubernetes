@@ -86,9 +86,12 @@ Videos and slide decks:
 
 Projects and products:
 
-- [Operator SDK](https://github.com/operator-framework/operator-sdk)
-- [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
-- [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
+- Datastores
+  - [Vitess](https://vitess.io/), a database clustering system for horizontal scaling MySQL
+- Operators
+  - [Operator SDK](https://github.com/operator-framework/operator-sdk)
+  - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
+  - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
 
 ## Backup and restore
 
