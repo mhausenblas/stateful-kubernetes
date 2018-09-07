@@ -92,6 +92,7 @@ Projects and products:
   - [Operator SDK](https://github.com/operator-framework/operator-sdk)
   - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
   - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
+  - [Node Disk Manager for Kubernetes](https://github.com/openebs/node-disk-manager)
 
 ## Backup and restore
 
