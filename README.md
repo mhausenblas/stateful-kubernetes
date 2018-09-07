@@ -69,6 +69,7 @@ Official Kubernetes docs and specifications:
 
 Blog posts and articles:
 
+- 08/2018: [Getting Started with Apache Kafka and Kubernetes](https://www.confluent.io/blog/getting-started-apache-kafka-kubernetes/)
 - 08/2018: [Getting started with MongoDB Enterprise Operator for Kubernetes](https://hackernoon.com/getting-started-with-mongodb-enterprise-operator-for-kubernetes-bb5d5205fe02)
 - 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
@@ -90,10 +91,13 @@ Projects and products:
 
 - Datastores
   - [Vitess](https://vitess.io/), a database clustering system for horizontal scaling MySQL
+  - [Kafka](https://www.confluent.io/resources/recommendations-for-deploying-apache-kafka-on-kubernetes)
 - Operators
   - [Operator SDK](https://github.com/operator-framework/operator-sdk)
   - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
   - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
+  - [Node Disk Manager for Kubernetes](https://github.com/openebs/node-disk-manager)
+  - [Introducing the Confluent Operator: Apache Kafka® on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
 
 ## Backup and restore
 
