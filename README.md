@@ -54,8 +54,8 @@ Projects and products:
   - [Rook](http://rook.io/)
   - [StorageOS](http://storageos.com)
   - [Stork](https://github.com/libopenstorage/stork)
- - Chaos Engineering frameworks
-   - [Litmus] (https://github.com/openebs/litmus)
+- Chaos Engineering frameworks
+  - [Litmus](https://github.com/openebs/litmus)
 
 ## Datastores and operators
 
