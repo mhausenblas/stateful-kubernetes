@@ -97,17 +97,14 @@ Projects and products:
 
 - Datastores
   - [Vitess](https://vitess.io/), a database clustering system for horizontal scaling MySQL
-<<<<<<< HEAD
   - [Kafka](https://www.confluent.io/resources/recommendations-for-deploying-apache-kafka-on-kubernetes)
-=======
   - [MariaDB Galera](https://github.com/adfinis-sygroup/mariadb-galera-chart) Helm chart
->>>>>>> adds a couple of links throughout
 - Operators
   - [Operator SDK](https://github.com/operator-framework/operator-sdk)
   - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
   - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
   - [Node Disk Manager for Kubernetes](https://github.com/openebs/node-disk-manager)
-  - [Introducing the Confluent Operator: Apache Kafka® on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
+  - [Introducing the Confluent Operator: Apache Kafka on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
 
 ## Backup and restore
 
