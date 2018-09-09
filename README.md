@@ -23,6 +23,7 @@ In-tree storage:
 Blog posts and articles:
 
 - 08/2018: [Dynamically Expand Volume with CSI and Kubernetes](https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/)
+- 06/2018: [How to write a Container Storage Interface (CSI) plugin](https://arslan.io/2018/06/21/how-to-write-a-container-storage-interface-csi-plugin/)
 - 04/2018: [Container Storage Interface (CSI) for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/10/container-storage-interface-beta/)
 - 01/2018: [Introducing Container Storage Interface (CSI) Alpha for Kubernetes](https://kubernetes.io/blog/2018/01/introducing-container-storage-interface/)
 - 12/2017: [A Basic Guide to Kubernetes Storage](https://dzone.com/articles/a-basic-guide-to-kubernetes-storage)
@@ -75,23 +76,32 @@ Blog posts and articles:
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - 05/2018: [Introducing the Operator Framework: Building Apps on Kubernetes](https://coreos.com/blog/introducing-operator-framework)
 - 04/2018: [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814)
+- 04/2018: [Kubernetes Persistent Volumes with Deployment and StatefulSet](https://akomljen.com/kubernetes-persistent-volumes-with-deployment-and-statefulset/)
 - 03/2018: [Why Kubernetes Operators are a game changer](https://blog.couchbase.com/kubernetes-operators-game-changer/)
 - 03/2018: [Introducing the Oracle MySQL Operator for Kubernetes](https://blogs.oracle.com/developers/introducing-the-oracle-mysql-operator-for-kubernetes)
 - 12/2017: [Kubernetes Elasticsearch Operator](https://akomljen.com/kubernetes-elasticsearch-operator/)
 - 03/2017: [PostgreSQL Operator for Kubernetes](https://info.crunchydata.com/blog/postgres-operator-for-kubernetes)
+- 03/2017: [A new “Kafka” novel : the OpenShift & Kubernetes deployment](https://paolopatierno.wordpress.com/2017/03/25/a-new-kafka-novel-the-openshift-kubernetes-deployment/)
+- 03/2017: [Rook Operator: First class storage for Kubernetes](https://blog.rook.io/rook-operator-first-class-storage-for-kubernetes-2d0288831175)
 - 02/2017: [Deploying PostgreSQL Clusters using StatefulSets](https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets/)
 - 01/2017: [Running MongoDB on Kubernetes with StatefulSets](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
+- 12/2016: Hacker News thread on [StatefulSet: Run and Scale Stateful Applications Easily in Kubernetes](https://news.ycombinator.com/item?id=13225183)
 
 Videos and slide decks:
 
 - [Why You Care About Kubernetes Operators](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [A Kubernetes Operator for PostgreSQL - Architecture and Design](https://www.youtube.com/watch?v=LwIOoU96iQw)
+- [Elasticsearch on Kubernetes](https://speakerdeck.com/joerx/elasticsearch-on-kubernetes)
 
 Projects and products:
 
 - Datastores
   - [Vitess](https://vitess.io/), a database clustering system for horizontal scaling MySQL
+<<<<<<< HEAD
   - [Kafka](https://www.confluent.io/resources/recommendations-for-deploying-apache-kafka-on-kubernetes)
+=======
+  - [MariaDB Galera](https://github.com/adfinis-sygroup/mariadb-galera-chart) Helm chart
+>>>>>>> adds a couple of links throughout
 - Operators
   - [Operator SDK](https://github.com/operator-framework/operator-sdk)
   - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
