@@ -89,6 +89,7 @@ Blog posts and articles:
 
 Videos and slide decks:
 
+- [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 - [Why You Care About Kubernetes Operators](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [A Kubernetes Operator for PostgreSQL - Architecture and Design](https://www.youtube.com/watch?v=LwIOoU96iQw)
 - [Elasticsearch on Kubernetes](https://speakerdeck.com/joerx/elasticsearch-on-kubernetes)
