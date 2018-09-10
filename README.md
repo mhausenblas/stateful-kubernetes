@@ -84,6 +84,7 @@ Blog posts and articles:
 - 03/2017: [A new “Kafka” novel : the OpenShift & Kubernetes deployment](https://paolopatierno.wordpress.com/2017/03/25/a-new-kafka-novel-the-openshift-kubernetes-deployment/)
 - 03/2017: [Rook Operator: First class storage for Kubernetes](https://blog.rook.io/rook-operator-first-class-storage-for-kubernetes-2d0288831175)
 - 02/2017: [Deploying PostgreSQL Clusters using StatefulSets](https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets/)
+- 02/2017: [Two days of pain or how I deployed GlusterFS to Kubernetes](https://blog.lwolf.org/post/how-i-deployed-glusterfs-cluster-to-kubernetes/)
 - 01/2017: [Running MongoDB on Kubernetes with StatefulSets](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
 - 12/2016: Hacker News thread on [StatefulSet: Run and Scale Stateful Applications Easily in Kubernetes](https://news.ycombinator.com/item?id=13225183)
 
