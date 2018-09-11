@@ -102,6 +102,7 @@ Projects and products:
   - [Kafka](https://www.confluent.io/resources/recommendations-for-deploying-apache-kafka-on-kubernetes)
   - [MariaDB Galera](https://github.com/adfinis-sygroup/mariadb-galera-chart) Helm chart
 - Operators
+  - [KubeDB - Run production-grade databases easily on Kubernetes](https://kubedb.com/)
   - [Operator SDK](https://github.com/operator-framework/operator-sdk)
   - [Awesome Operators in the Wild](https://github.com/operator-framework/awesome-operators)
   - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
@@ -120,4 +121,6 @@ Projects and products:
 
 - [Heptio Ark](https://github.com/heptio/ark)
 - [ReShifter](http://reshifter.info/)
+- [Stash by AppsCode - Backup your Kubernetes Volumes](https://github.com/appscode/stash)
+- [KubeDB - Run production-grade databases easily on Kubernetes](https://github.com/kubedb)
 - [Kasten's K10 Platform](https://kasten.io/product/)
