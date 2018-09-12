@@ -70,6 +70,7 @@ Official Kubernetes docs and specifications:
 
 Blog posts and articles:
 
+- 09/2018: [How to Install Redis Enterprise Clusters Using Operators on OpenShift](https://redislabs.com/blog/install-redis-enterprise-clusters-using-operators-openshift/)
 - 08/2018: [Getting Started with Apache Kafka and Kubernetes](https://www.confluent.io/blog/getting-started-apache-kafka-kubernetes/)
 - 08/2018: [Getting started with MongoDB Enterprise Operator for Kubernetes](https://hackernoon.com/getting-started-with-mongodb-enterprise-operator-for-kubernetes-bb5d5205fe02)
 - 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
