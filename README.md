@@ -32,6 +32,7 @@ Blog posts and articles:
 
 Videos and slide decks:
 
+- [Approaches for duplicating Kubernetes storage with Gluster](https://www.youtube.com/watch?v=NaYTP9OKwdk)
 - [Persistent Storage with Kubernetes in Production - Which Solution and Why?](https://www.youtube.com/watch?v=hqE5c5pyfrk)
 - [Kubernetes Storage Lingo 101 - Saad Ali, Google (Beginner Skill Level)](https://www.youtube.com/watch?v=uSxlgK1bCuA)
 - [Tutorial: Introduction to Stateful Applications on Kubernetes](https://www.youtube.com/watch?v=B-791PMq4cU)
