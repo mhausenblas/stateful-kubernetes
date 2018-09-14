@@ -59,7 +59,7 @@ Projects and products:
 - Chaos Engineering frameworks
   - [Litmus](https://github.com/openebs/litmus)
 
-## Datastores and operators
+## Datastores and Operators
 
 Official Kubernetes docs and specifications:
 
@@ -89,6 +89,7 @@ Blog posts and articles:
 - 02/2017: [Two days of pain or how I deployed GlusterFS to Kubernetes](https://blog.lwolf.org/post/how-i-deployed-glusterfs-cluster-to-kubernetes/)
 - 01/2017: [Running MongoDB on Kubernetes with StatefulSets](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
 - 12/2016: Hacker News thread on [StatefulSet: Run and Scale Stateful Applications Easily in Kubernetes](https://news.ycombinator.com/item?id=13225183)
+- 11/2016: [Original CoreOS Operators launch explainer](https://coreos.com/blog/introducing-operators.html)
 
 Videos and slide decks:
 
