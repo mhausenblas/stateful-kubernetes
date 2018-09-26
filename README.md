@@ -26,7 +26,8 @@ Blog posts and articles:
 - 06/2018: [How to write a Container Storage Interface (CSI) plugin](https://arslan.io/2018/06/21/how-to-write-a-container-storage-interface-csi-plugin/)
 - 04/2018: [Container Storage Interface (CSI) for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/10/container-storage-interface-beta/)
 - 01/2018: [Introducing Container Storage Interface (CSI) Alpha for Kubernetes](https://kubernetes.io/blog/2018/01/introducing-container-storage-interface/)
-- 12/2017: [A Basic Guide to Kubernetes Storage](https://dzone.com/articles/a-basic-guide-to-kubernetes-storage)
+- 12/2017: [Troubleshooting: Unable to mount volumes for pod because “volume is already exclusively attached to one node and can’t be attached to another”](https://portworx.com/warning-failedattachvolume-warning-failedmount-kubernetes-aws-ebs/)
+- 12/2017: [A Basic Guide to Kubernetes Storage](https://portworx.com/basic-guide-kubernetes-storage/)
 - 05/2017: [Kubernetes: State and Storage](https://blog.openshift.com/kubernetes-state-storage/)
 - 10/2016: [Dynamic Provisioning and Storage Classes in Kubernetes](https://kubernetes.io/blog/2016/10/dynamic-provisioning-and-storage-in-kubernetes/)
 
@@ -38,6 +39,8 @@ Videos and slide decks:
 - [Tutorial: Introduction to Stateful Applications on Kubernetes](https://www.youtube.com/watch?v=B-791PMq4cU)
 - [Container Engine: Storage Classes & Dynamic Provisioning in Kubernetes](https://www.youtube.com/watch?v=qktFhjJmFhg)
 - [Using Kubernetes Local Storage for Scale-Out Storage Services](https://www.youtube.com/watch?v=eqkgiPppZN8)
+- [Intro to Container Storage Interface (CSI)](https://www.youtube.com/watch?v=_EFJeIQzbmo)
+
 
 Projects and products:
 
@@ -78,11 +81,15 @@ Blog posts and articles:
 - 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - 05/2018: [Introducing the Operator Framework: Building Apps on Kubernetes](https://coreos.com/blog/introducing-operator-framework)
+-05/2018: [PostgreSQL Kubernetes: How to run HA Postgres on Kubernetes](https://portworx.com/ha-postgresql-kubernetes/)
 - 04/2018: [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814)
 - 04/2018: [Kubernetes Persistent Volumes with Deployment and StatefulSet](https://akomljen.com/kubernetes-persistent-volumes-with-deployment-and-statefulset/)
+- 04/2018: [How to run HA MongoDB on Kubernetes](https://portworx.com/ha-mongodb-kubernetes/)
 - 03/2018: [Why Kubernetes Operators are a game changer](https://blog.couchbase.com/kubernetes-operators-game-changer/)
 - 03/2018: [Introducing the Oracle MySQL Operator for Kubernetes](https://blogs.oracle.com/developers/introducing-the-oracle-mysql-operator-for-kubernetes)
 - 12/2017: [Kubernetes Elasticsearch Operator](https://akomljen.com/kubernetes-elasticsearch-operator/)
+- 08/2017: [Kubernetes WordPress: How to run HA WordPress on Kubernetes](https://portworx.com/kubernetes-wordpress-ha/)
+- 08/2017: [MySQL Kubernetes: deploying and running MySQL on Kubernetes using statefulsets and kops](https://portworx.com/mysql-kubernetes/)
 - 03/2017: [PostgreSQL Operator for Kubernetes](https://info.crunchydata.com/blog/postgres-operator-for-kubernetes)
 - 03/2017: [A new “Kafka” novel : the OpenShift & Kubernetes deployment](https://paolopatierno.wordpress.com/2017/03/25/a-new-kafka-novel-the-openshift-kubernetes-deployment/)
 - 03/2017: [Rook Operator: First class storage for Kubernetes](https://blog.rook.io/rook-operator-first-class-storage-for-kubernetes-2d0288831175)
@@ -118,6 +125,7 @@ Projects and products:
 Official Kubernetes docs and specifications:
 
 Blog posts and articles:
+- 09/2018: [How to backup and restore MySQL on Red Hat OpenShift](https://portworx.com/backup-restore-mysql-red-hat-openshift/)
 
 Videos and slide decks:
 
@@ -128,3 +136,4 @@ Projects and products:
 - [Stash by AppsCode - Backup your Kubernetes Volumes](https://github.com/appscode/stash)
 - [KubeDB - Run production-grade databases easily on Kubernetes](https://github.com/kubedb)
 - [Kasten's K10 Platform](https://kasten.io/product/)
+- [Portworx PX-Enterprise](https://docs.portworx.com/cloud/backups.html#multi-cloud-backup-and-recovery-of-px-volumes)
