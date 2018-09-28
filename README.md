@@ -131,9 +131,18 @@ Videos and slide decks:
 
 Projects and products:
 
+### Cross-platform
+
+- [Kasten's K10 Platform](https://kasten.io/product/)
 - [Heptio Ark](https://github.com/heptio/ark)
 - [ReShifter](http://reshifter.info/)
 - [Stash by AppsCode - Backup your Kubernetes Volumes](https://github.com/appscode/stash)
+
+### Database-specific
+
 - [KubeDB - Run production-grade databases easily on Kubernetes](https://github.com/kubedb)
-- [Kasten's K10 Platform](https://kasten.io/product/)
+- [Kanister - Cross-data service backup and restore](https://github.com/kanisterio/kanister)
+
+### Storage-system specific
+
 - [Portworx PX-Enterprise](https://docs.portworx.com/cloud/backups.html#multi-cloud-backup-and-recovery-of-px-volumes)
