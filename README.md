@@ -8,7 +8,7 @@ Note: when you read _in-tree_ it means it's part of the Kubernetes source code, 
 
 Official Kubernetes docs and specifications.
 
-In-tree storage:
+### In-Tree Storage
 
 - [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/)
 - [Configuring a pod to use a volume](https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/)
@@ -16,11 +16,11 @@ In-tree storage:
 - [Configuring a pod to use a PV](https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/)
 - [Dynamically provisioning PVs](https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/) via [storage classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
 
-3rd-party storage:
+### 3rd-Party Storage
 
 - [Container Storage Interface (CSI)](https://github.com/container-storage-interface/spec)
 
-Blog posts and articles:
+### Blog Posts and Articles
 
 - 08/2018: [Dynamically Expand Volume with CSI and Kubernetes](https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/)
 - 06/2018: [How to write a Container Storage Interface (CSI) plugin](https://arslan.io/2018/06/21/how-to-write-a-container-storage-interface-csi-plugin/)
@@ -31,7 +31,7 @@ Blog posts and articles:
 - 05/2017: [Kubernetes: State and Storage](https://blog.openshift.com/kubernetes-state-storage/)
 - 10/2016: [Dynamic Provisioning and Storage Classes in Kubernetes](https://kubernetes.io/blog/2016/10/dynamic-provisioning-and-storage-in-kubernetes/)
 
-Videos and slide decks:
+### Videos and Slide Decks
 
 - [Stateful Applications in Kubernetes: Ready for Production!](https://speakerdeck.com/ntolia/stateful-applications-in-kubernetes-ready-for-production)
 - [Approaches for duplicating Kubernetes storage with Gluster](https://www.youtube.com/watch?v=NaYTP9OKwdk)
@@ -43,7 +43,7 @@ Videos and slide decks:
 - [Intro to Container Storage Interface (CSI)](https://www.youtube.com/watch?v=_EFJeIQzbmo)
 
 
-Projects and products:
+### Projects and Products
 
 - Public cloud
   - Amazon [EKS Storage Classes](https://docs.aws.amazon.com/eks/latest/userguide/storage-classes.html)
@@ -66,7 +66,7 @@ Projects and products:
 
 ## Datastores and Operators
 
-Official Kubernetes docs and specifications:
+### Official Kubernetes Docs and Specifications
 
 - [StatefulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
 - [Run a Single-Instance Stateful Application](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
@@ -74,7 +74,7 @@ Official Kubernetes docs and specifications:
 - [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 - [Extend the Kubernetes API with custom resources](https://kubernetes.io/docs/tasks/access-kubernetes-api/custom-resources/custom-resource-definitions/)
 
-Blog posts and articles:
+### Blog posts and Articles
 
 - 09/2018: [How to Install Redis Enterprise Clusters Using Operators on OpenShift](https://redislabs.com/blog/install-redis-enterprise-clusters-using-operators-openshift/)
 - 08/2018: [Getting Started with Apache Kafka and Kubernetes](https://www.confluent.io/blog/getting-started-apache-kafka-kubernetes/)
@@ -100,14 +100,14 @@ Blog posts and articles:
 - 12/2016: Hacker News thread on [StatefulSet: Run and Scale Stateful Applications Easily in Kubernetes](https://news.ycombinator.com/item?id=13225183)
 - 11/2016: [Original CoreOS Operators launch explainer](https://coreos.com/blog/introducing-operators.html)
 
-Videos and slide decks:
+### Videos and Slide Decks
 
 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 - [Why You Care About Kubernetes Operators](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [A Kubernetes Operator for PostgreSQL - Architecture and Design](https://www.youtube.com/watch?v=LwIOoU96iQw)
 - [Elasticsearch on Kubernetes](https://speakerdeck.com/joerx/elasticsearch-on-kubernetes)
 
-Projects and products:
+### Projects and Products
 
 - Datastores
   - [Vitess](https://vitess.io/), a database clustering system for horizontal scaling MySQL
@@ -123,27 +123,32 @@ Projects and products:
 
 ## Backup and restore
 
-Official Kubernetes docs and specifications:
+### Official Kubernetes Docs and Specifications
 
-Blog posts and articles:
+- None yet
+
+### Blog Posts and Articles
+
 - 09/2018: [How to backup and restore MySQL on Red Hat OpenShift](https://portworx.com/backup-restore-mysql-red-hat-openshift/)
 
-Videos and slide decks:
+### Videos and Slide Decks
 
-Projects and products:
+- None yet
 
-### Cross-platform
+### Projects and Products
+
+#### Cross-platform
 
 - [Kasten's K10 Platform](https://kasten.io/product/)
 - [Heptio Ark](https://github.com/heptio/ark)
 - [ReShifter](http://reshifter.info/)
 - [Stash by AppsCode - Backup your Kubernetes Volumes](https://github.com/appscode/stash)
 
-### Database-specific
+#### Database-specific
 
 - [KubeDB - Run production-grade databases easily on Kubernetes](https://github.com/kubedb)
 - [Kanister - Cross-data service backup and restore](https://github.com/kanisterio/kanister)
 
-### Storage-system specific
+#### Storage-system specific
 
 - [Portworx PX-Enterprise](https://docs.portworx.com/cloud/backups.html#multi-cloud-backup-and-recovery-of-px-volumes)
