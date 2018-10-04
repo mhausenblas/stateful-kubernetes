@@ -120,6 +120,7 @@ Official Kubernetes docs and specifications.
   - [Kanister - An Operator Focused on App-Level Data Management](https://github.com/kanisterio/kanister)
   - [Node Disk Manager for Kubernetes](https://github.com/openebs/node-disk-manager)
   - [Introducing the Confluent Operator: Apache Kafka on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
+  - [KubeDirector](https://github.com/bluek8s/kubedirector)
 
 ## Backup and restore
 
