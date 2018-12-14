@@ -124,7 +124,7 @@ Official Kubernetes docs and specifications.
   - [Introducing the Confluent Operator: Apache Kafka on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
   - [KubeDirector](https://github.com/bluek8s/kubedirector)
 
-## Backup and restore
+## Backup and Restore
 
 ### Official Kubernetes Docs and Specifications
 
