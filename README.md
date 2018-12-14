@@ -83,7 +83,7 @@ Official Kubernetes docs and specifications.
 - 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - 05/2018: [Introducing the Operator Framework: Building Apps on Kubernetes](https://coreos.com/blog/introducing-operator-framework)
--05/2018: [PostgreSQL Kubernetes: How to run HA Postgres on Kubernetes](https://portworx.com/ha-postgresql-kubernetes/)
+- 05/2018: [PostgreSQL Kubernetes: How to run HA Postgres on Kubernetes](https://portworx.com/ha-postgresql-kubernetes/)
 - 04/2018: [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814)
 - 04/2018: [Kubernetes Persistent Volumes with Deployment and StatefulSet](https://akomljen.com/kubernetes-persistent-volumes-with-deployment-and-statefulset/)
 - 04/2018: [How to run HA MongoDB on Kubernetes](https://portworx.com/ha-mongodb-kubernetes/)
