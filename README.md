@@ -103,6 +103,7 @@ Official Kubernetes docs and specifications.
 
 ### Videos and Slide Decks
 
+- [CI/CD, Kubernetes, and Databases: Better Together](https://kccna18.sched.com/event/GrSq/cicd-kubernetes-and-databases-better-together-niraj-tolia-tom-manville-kasten) [[Video](https://www.youtube.com/watch?v=WyRzBt65_zQ), [Slides](https://schd.ws/hosted_files/kccna18/e1/CICD%20K8s%20And%20DBs%20Better%20Together.pdf)]
 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 - [Why You Care About Kubernetes Operators](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [A Kubernetes Operator for PostgreSQL - Architecture and Design](https://www.youtube.com/watch?v=LwIOoU96iQw)
@@ -135,7 +136,7 @@ Official Kubernetes docs and specifications.
 
 ### Videos and Slide Decks
 
-- None yet
+- [Day 2 with Stateful Applications - Implementing a Data Protection Strategy ](https://kccna18.sched.com/event/GrYk/day-2-with-stateful-applications-implementing-a-data-protection-strategy-deepika-dixit-vaibhav-kamra-kasten) [[Video](https://www.youtube.com/watch?v=4PJ6fHMFbVU), [Slides](https://schd.ws/hosted_files/kccna18/71/KubeConNA_DataProtectionStrategy.pdf)]
 
 ### Projects and Products
 
