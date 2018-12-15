@@ -83,7 +83,7 @@ Official Kubernetes docs and specifications.
 - 06/2018: [Kubernetes StatefulSet In Action](https://blog.openshift.com/kubernetes-statefulset-in-action/)
 - 05/2018: [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - 05/2018: [Introducing the Operator Framework: Building Apps on Kubernetes](https://coreos.com/blog/introducing-operator-framework)
--05/2018: [PostgreSQL Kubernetes: How to run HA Postgres on Kubernetes](https://portworx.com/ha-postgresql-kubernetes/)
+- 05/2018: [PostgreSQL Kubernetes: How to run HA Postgres on Kubernetes](https://portworx.com/ha-postgresql-kubernetes/)
 - 04/2018: [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814)
 - 04/2018: [Kubernetes Persistent Volumes with Deployment and StatefulSet](https://akomljen.com/kubernetes-persistent-volumes-with-deployment-and-statefulset/)
 - 04/2018: [How to run HA MongoDB on Kubernetes](https://portworx.com/ha-mongodb-kubernetes/)
@@ -103,6 +103,7 @@ Official Kubernetes docs and specifications.
 
 ### Videos and Slide Decks
 
+- [CI/CD, Kubernetes, and Databases: Better Together](https://kccna18.sched.com/event/GrSq/cicd-kubernetes-and-databases-better-together-niraj-tolia-tom-manville-kasten) [[Video](https://www.youtube.com/watch?v=WyRzBt65_zQ), [Slides](https://schd.ws/hosted_files/kccna18/e1/CICD%20K8s%20And%20DBs%20Better%20Together.pdf)]
 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 - [Why You Care About Kubernetes Operators](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [A Kubernetes Operator for PostgreSQL - Architecture and Design](https://www.youtube.com/watch?v=LwIOoU96iQw)
@@ -123,7 +124,7 @@ Official Kubernetes docs and specifications.
   - [Introducing the Confluent Operator: Apache Kafka on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
   - [KubeDirector](https://github.com/bluek8s/kubedirector)
 
-## Backup and restore
+## Backup and Restore
 
 ### Official Kubernetes Docs and Specifications
 
@@ -135,7 +136,7 @@ Official Kubernetes docs and specifications.
 
 ### Videos and Slide Decks
 
-- None yet
+- [Day 2 with Stateful Applications - Implementing a Data Protection Strategy ](https://kccna18.sched.com/event/GrYk/day-2-with-stateful-applications-implementing-a-data-protection-strategy-deepika-dixit-vaibhav-kamra-kasten) [[Video](https://www.youtube.com/watch?v=4PJ6fHMFbVU), [Slides](https://schd.ws/hosted_files/kccna18/71/KubeConNA_DataProtectionStrategy.pdf)]
 
 ### Projects and Products
 
