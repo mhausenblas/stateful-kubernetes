@@ -123,6 +123,7 @@ Official Kubernetes docs and specifications.
   - [Node Disk Manager for Kubernetes](https://github.com/openebs/node-disk-manager)
   - [Introducing the Confluent Operator: Apache Kafka on Kubernetes Made Simple](https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/)
   - [KubeDirector](https://github.com/bluek8s/kubedirector)
+  - [The MySQL Operator - creates, configures and manages MySQL clusters running on Kubernetes](https://github.com/oracle/mysql-operator)
 
 ## Backup and Restore
 
