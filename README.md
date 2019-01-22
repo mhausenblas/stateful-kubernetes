@@ -61,6 +61,7 @@ Official Kubernetes docs and specifications.
   - [StorageOS](http://storageos.com)
   - [Stork](https://github.com/libopenstorage/stork)
   - [NetApp Trident](https://github.com/NetApp/trident)
+  - [Elastifile](https://www.elastifile.com/)
 - Chaos Engineering frameworks
   - [Litmus](https://github.com/openebs/litmus)
   - [Chaosplatform](https://github.com/chaostoolkit/chaosplatform)
