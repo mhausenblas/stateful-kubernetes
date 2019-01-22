@@ -63,7 +63,8 @@ Official Kubernetes docs and specifications.
   - [NetApp Trident](https://github.com/NetApp/trident)
 - Chaos Engineering frameworks
   - [Litmus](https://github.com/openebs/litmus)
-
+  - [Chaosplatform](https://github.com/chaostoolkit/chaosplatform)
+  
 ## Datastores and Operators
 
 ### Official Kubernetes Docs and Specifications
