@@ -22,6 +22,8 @@ Official Kubernetes docs and specifications.
 
 ### Blog Posts and Articles
 
+- 01/2019: [Highly-Available Stateful Workloads on Kubernetes with SAN storage](https://datamattsson.tumblr.com/post/182297931146/highly-available-stateful-workloads-on-kubernetes)
+- 01/2019: [Container Storage Interface (CSI) for Kubernetes GA](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
 - 08/2018: [Dynamically Expand Volume with CSI and Kubernetes](https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/)
 - 06/2018: [How to write a Container Storage Interface (CSI) plugin](https://arslan.io/2018/06/21/how-to-write-a-container-storage-interface-csi-plugin/)
 - 04/2018: [Container Storage Interface (CSI) for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/10/container-storage-interface-beta/)
@@ -33,6 +35,7 @@ Official Kubernetes docs and specifications.
 
 ### Videos and Slide Decks
 
+- HPE Storage for Containers Workshop at KubeCon US 2018: [tutorial](https://github.com/NimbleStorage/container-examples/tree/master/misc/KubeConUS18), [slides](https://www.slideshare.net/dri374/hpe-storage-kubecon-us-2018-workshop)
 - [Stateful Applications in Kubernetes: Ready for Production!](https://speakerdeck.com/ntolia/stateful-applications-in-kubernetes-ready-for-production)
 - [Approaches for duplicating Kubernetes storage with Gluster](https://www.youtube.com/watch?v=NaYTP9OKwdk)
 - [Persistent Storage with Kubernetes in Production - Which Solution and Why?](https://www.youtube.com/watch?v=hqE5c5pyfrk)
@@ -63,6 +66,8 @@ Official Kubernetes docs and specifications.
   - [NetApp Trident](https://github.com/NetApp/trident)
   - [Elastifile](https://www.elastifile.com/)
   - [Openio](https://github.com/open-io/oio-sds)
+  - [HPE](https://hpe.com/storage/containers)
+  - Docker FlexVolume driver [Dory](https://github.com/hpe-storage/dory)
 - Chaos Engineering frameworks
   - [Litmus](https://github.com/openebs/litmus)
   - [Chaosplatform](https://github.com/chaostoolkit/chaosplatform)
@@ -158,4 +163,5 @@ Official Kubernetes docs and specifications.
 
 #### Storage-system specific
 
+- Data Protection for Containers with HPE Nimble Storage: [Part I, Backup](https://community.hpe.com/t5/HPE-Storage-Tech-Insiders/Data-Protection-for-Containers-Part-I-Backup/ba-p/7002477) [Part II, Restore](https://community.hpe.com/t5/HPE-Storage-Tech-Insiders/Data-Protection-for-Containers-Part-II-Restore/ba-p/7019117)
 - [Portworx PX-Enterprise](https://docs.portworx.com/cloud/backups.html#multi-cloud-backup-and-recovery-of-px-volumes)
