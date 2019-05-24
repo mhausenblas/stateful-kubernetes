@@ -142,6 +142,7 @@ Official Kubernetes docs and specifications.
 ### Blog Posts and Articles
 
 - 09/2018: [How to backup and restore MySQL on Red Hat OpenShift](https://portworx.com/backup-restore-mysql-red-hat-openshift/)
+- 05/2018: [Recovering a StatefulSet from AWS EBS Snapshots](https://medium.com/@joatmon08/kubernetes-statefulset-recovery-from-aws-snapshots-8a6159cda6f1)
 
 ### Videos and Slide Decks
 
